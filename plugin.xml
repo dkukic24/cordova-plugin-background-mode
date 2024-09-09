@@ -89,6 +89,8 @@
         <source-file
             src="src/android/ForegroundService.java"
             target-dir="src/de/appplant/cordova/plugin/background" />
+
+        <resource-file src="ic_launcher_round.png" target="res/mipmap/ic_launcher_round.png" />
     </platform>
 
     <!-- browser -->
